@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+About Me:
+I grew up in a small town and started operating farm equipment for a summer job after I turned 15. In 2007 I earned my high school diploma. I continued to operate and work on farm equipment after high school until I turned 25. I decided that I wanted to do something different with my life and had an interest in computers and how they work. I decided to attend OIT in Klamath falls. I started out going for a degree in Hardware Engineering. At the end of my first year we were asked to lock in our majors; I changed my target degree to Software Engineering Technology. While at Oregon Tech, I signed up for the MECOP internship program which helped me get two 6-month internships. My first internship was at Intel as an Automated Testing Intern, and my second internship was at Portland General Electric as a DevOps Intern. I graduated from Oregon Institute of Technology with a BS in Software Engineering Technology in March of 2020.
+
 <!--
 **Clarkmeister/clarkmeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
